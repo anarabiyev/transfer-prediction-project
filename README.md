@@ -2,14 +2,20 @@
 
 Welcome to the Transfer Prediction Project repository, created for the "Advanced Data Analysis Methods Laboratory" course project.
 
+Link to application: https://transfer-prediction-app.streamlit.app/
+
 ### Overview
 This repository contains four Jupyter Notebook files that detail the project workflow:
 
 web_scraping.ipynb: This notebook demonstrates web scraping techniques used to collect a list of players who were transferred in previous years.
-data_cleaning.ipynb: Here, the scraped data is processed and cleaned using the pandas library.
+
 dataset_preparing.ipynb: This notebook combines the cleaned data with additional private datasets to create the final dataset for analysis.
+
 EDA.ipynb: Explore the dataset with this notebook, which contains Exploratory Data Analysis (EDA) to uncover insights and patterns.
 
+Modelling.ipynb: You can find training of used models.
+
+Predictions.ipynb: Given predictions for the next summer.
 
 ### Project Description
 The goal of this project is to predict player transfers based on historical data. By leveraging web scraping, data cleaning, and exploratory analysis, we aim to prepare a comprehensive dataset for machine learning model training.
